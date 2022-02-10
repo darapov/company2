@@ -14,23 +14,4 @@ public class Employee {
         this.salary = salary;
     }
 
-    public static void addEmployee(String name, String phone, long salary){
-
-        new Employee(name, phone, salary);
-    }
-
-    public static void fireEployee(){
-
-    }
-
-    public void calculateSalary(){
-
-    }
-    public void medianSalary(){
-
-    }
-
-
-
-
 }
